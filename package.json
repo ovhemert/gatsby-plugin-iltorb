@@ -1,0 +1,36 @@
+{
+  "name": "gatsby-plugin-iltorb",
+  "version": "1.0.0",
+  "description": "Gatsby plugin for preparing brotli-compressed versions of assets using iltorb native bindings",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "standard"
+  },
+  "keywords": [
+    "compress",
+    "gatsby",
+    "gatsby-plugin",
+    "brotli",
+    "iltorb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovhemert/gatsby-plugin-iltorb.git"
+  },
+  "author": "Osmond van Hemert <hello@ovhemert.dev> (https://ovhemert.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovhemert/gatsby-plugin-iltorb/issues"
+  },
+  "homepage": "https://github.com/ovhemert/gatsby-plugin-iltorb#readme",
+  "dependencies": {
+    "glob": "^7.1.4",
+    "iltorb": "^2.4.4",
+    "mkdirp": "^0.5.1",
+    "worker-farm": "^1.7.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.0"
+  }
+}
