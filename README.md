@@ -3,7 +3,7 @@
 [![Travis](https://img.shields.io/travis/com/ovhemert/gatsby-plugin-iltorb.svg?branch=master&logo=travis)](https://travis-ci.com/ovhemert/gatsby-plugin-iltorb)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/87a2946ec87e42869eb37cc731aee4e1)](https://www.codacy.com/app/ovhemert/gatsby-plugin-iltorb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ovhemert/gatsby-plugin-iltorb&amp;utm_campaign=Badge_Grade)
 [![Known Vulnerabilities](https://snyk.io/test/npm/gatsby-plugin-iltorb/badge.svg)](https://snyk.io/test/npm/gatsby-plugin-iltorb)
-[![Coverage Status](https://coveralls.io/repos/github/ovhemert/gatsby-plugin-iltorb/badge.svg)](https://coveralls.io/github/ovhemert/gatsby-plugin-iltorb)
+[![Coverage Status](https://coveralls.io/repos/github/ovhemert/gatsby-plugin-iltorb/badge.svg?branch=master)](https://coveralls.io/github/ovhemert/gatsby-plugin-iltorb?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/ovhemert/gatsby-plugin-iltorb.svg)](https://greenkeeper.io/)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
