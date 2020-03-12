@@ -27,7 +27,7 @@
   "dependencies": {
     "glob": "^7.1.6",
     "iltorb": "^2.4.4",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "worker-farm": "^1.7.0"
   },
   "devDependencies": {
