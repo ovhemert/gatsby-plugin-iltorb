@@ -9,7 +9,15 @@
 
 Gatsby plugin for preparing brotli-compressed versions of assets using iltorb native bindings.
 
-*Note: This means that the plugin will try to download the binaries for your system. If it fails, it tries to build them using build tools that must already exist on the system. There is also a version of this plugin available, that does not use native bindings ([gatsby-plugin-brotli](https://github.com/ovhemert/gatsby-plugin-brotli/)). The difference is that compression takes a bit longer.*
+---
+
+**This package has been deprecated**
+
+**The module [`gatsby-plugin-brotli`](https://github.com/ovhemert/gatsby-plugin-brotli/) now uses Node.js built-in brotli compression functions starting with v2.0.0, please use it over 'gatsby-plugin-iltorb'**
+
+**It makes this module obsolete!**
+
+---
 
 ```bash
 /webpack-runtime-cde5506958f1afc4d89e.js
